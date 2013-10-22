@@ -1,10 +1,7 @@
 ahoj jenom to zkousim
-<<<<<<< HEAD
+
  proc pises jj
 adfouhasoidufiashdfada
 asdfpiuashdifuhasdf
 asdfzasduf
-=======
 
-BLALALFASJdfajlbfya vhsvgealnvbefnav s
->>>>>>> 097e0f3ef2886d71ef943a5511b51a9c07cb6196
